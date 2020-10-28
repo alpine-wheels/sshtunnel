@@ -1,1 +1,1 @@
-sshtunnel==0.1.5
+sshtunnel==0.2.1
